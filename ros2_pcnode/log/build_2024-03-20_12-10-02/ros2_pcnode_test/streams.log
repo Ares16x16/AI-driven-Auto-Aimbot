@@ -1,0 +1,23 @@
+[0.443s] Invoking command in '/home/benny233/ros2_ws/src/ros2_pcnode_test': PYTHONPATH=/home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/prefix_override:/home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/ros2_pcnode_test build --build-base /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build install --record /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/install.log --single-version-externally-managed
+[0.585s] running egg_info
+[0.586s] writing build/ros2_pcnode_test/ros2_pcnode_test.egg-info/PKG-INFO
+[0.586s] writing dependency_links to build/ros2_pcnode_test/ros2_pcnode_test.egg-info/dependency_links.txt
+[0.587s] writing entry points to build/ros2_pcnode_test/ros2_pcnode_test.egg-info/entry_points.txt
+[0.587s] writing requirements to build/ros2_pcnode_test/ros2_pcnode_test.egg-info/requires.txt
+[0.587s] writing top-level names to build/ros2_pcnode_test/ros2_pcnode_test.egg-info/top_level.txt
+[0.588s] reading manifest file 'build/ros2_pcnode_test/ros2_pcnode_test.egg-info/SOURCES.txt'
+[0.589s] writing manifest file 'build/ros2_pcnode_test/ros2_pcnode_test.egg-info/SOURCES.txt'
+[0.589s] running build
+[0.589s] running build_py
+[0.589s] running install
+[0.589s] running install_lib
+[0.590s] running install_data
+[0.590s] running install_egg_info
+[0.591s] removing '/home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test-0.0.0-py3.10.egg-info' (and everything under it)
+[0.591s] Copying build/ros2_pcnode_test/ros2_pcnode_test.egg-info to /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test-0.0.0-py3.10.egg-info
+[0.592s] running install_scripts
+[0.603s] Installing draw_circle script to /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/ros2_pcnode_test
+[0.603s] Installing ros2_pc_node = ros2_pcnode_test.ros2_pc_node:maincam script to /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/ros2_pcnode_test
+[0.603s] Installing test_node script to /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/ros2_pcnode_test
+[0.603s] writing list of installed files to '/home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/install.log'
+[0.619s] Invoked command in '/home/benny233/ros2_ws/src/ros2_pcnode_test' returned '0': PYTHONPATH=/home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/prefix_override:/home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/ros2_pcnode_test build --build-base /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build install --record /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/install.log --single-version-externally-managed

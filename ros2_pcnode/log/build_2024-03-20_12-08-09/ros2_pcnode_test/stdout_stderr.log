@@ -1,0 +1,46 @@
+running egg_info
+creating build/ros2_pcnode_test/ros2_pcnode_test.egg-info
+writing build/ros2_pcnode_test/ros2_pcnode_test.egg-info/PKG-INFO
+writing dependency_links to build/ros2_pcnode_test/ros2_pcnode_test.egg-info/dependency_links.txt
+writing entry points to build/ros2_pcnode_test/ros2_pcnode_test.egg-info/entry_points.txt
+writing requirements to build/ros2_pcnode_test/ros2_pcnode_test.egg-info/requires.txt
+writing top-level names to build/ros2_pcnode_test/ros2_pcnode_test.egg-info/top_level.txt
+writing manifest file 'build/ros2_pcnode_test/ros2_pcnode_test.egg-info/SOURCES.txt'
+reading manifest file 'build/ros2_pcnode_test/ros2_pcnode_test.egg-info/SOURCES.txt'
+writing manifest file 'build/ros2_pcnode_test/ros2_pcnode_test.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build
+creating /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build/lib
+creating /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build/lib/ros2_pcnode_test
+copying ros2_pcnode_test/ros2_pc_node.py -> /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build/lib/ros2_pcnode_test
+copying ros2_pcnode_test/draw_circle.py -> /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build/lib/ros2_pcnode_test
+copying ros2_pcnode_test/__init__.py -> /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build/lib/ros2_pcnode_test
+copying ros2_pcnode_test/test_cam.py -> /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build/lib/ros2_pcnode_test
+copying ros2_pcnode_test/test_node.py -> /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build/lib/ros2_pcnode_test
+running install
+running install_lib
+creating /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test
+copying /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build/lib/ros2_pcnode_test/ros2_pc_node.py -> /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test
+copying /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build/lib/ros2_pcnode_test/draw_circle.py -> /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test
+copying /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build/lib/ros2_pcnode_test/__init__.py -> /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test
+copying /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build/lib/ros2_pcnode_test/test_cam.py -> /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test
+copying /home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/build/lib/ros2_pcnode_test/test_node.py -> /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test
+byte-compiling /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test/ros2_pc_node.py to ros2_pc_node.cpython-310.pyc
+byte-compiling /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test/draw_circle.py to draw_circle.cpython-310.pyc
+byte-compiling /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test/test_cam.py to test_cam.cpython-310.pyc
+byte-compiling /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test/test_node.py to test_node.cpython-310.pyc
+running install_data
+creating /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/share/ament_index
+creating /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/share/ament_index/resource_index
+creating /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/share/ament_index/resource_index/packages
+copying resource/ros2_pcnode_test -> /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/share/ament_index/resource_index/packages
+copying package.xml -> /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/share/ros2_pcnode_test
+running install_egg_info
+Copying build/ros2_pcnode_test/ros2_pcnode_test.egg-info to /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/python3.10/site-packages/ros2_pcnode_test-0.0.0-py3.10.egg-info
+running install_scripts
+Installing draw_circle script to /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/ros2_pcnode_test
+Installing ros2_pc_node = ros2_pcnode_test.ros2_pc_node:maincam script to /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/ros2_pcnode_test
+Installing test_node script to /home/benny233/ros2_ws/src/ros2_pcnode_test/install/ros2_pcnode_test/lib/ros2_pcnode_test
+writing list of installed files to '/home/benny233/ros2_ws/src/ros2_pcnode_test/build/ros2_pcnode_test/install.log'

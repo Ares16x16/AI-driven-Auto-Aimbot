@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "ROS_2_Test",
+			"path": "."
+		},
+		{
+			"path": "../../../../microros_ws/src/micro_ros_setup"
+		},
+		{
+			"path": "../../../../ros2_ws/src/ros2_pcnode_test"
+		},
+		{
+			"path": "../AB_encoder"
+		},
+		{
+			"name": "car motor test",
+			"path": "../car motor test"
+		}
+	],
+	"settings": {
+		"ros.distro": "humble"
+	}
+}

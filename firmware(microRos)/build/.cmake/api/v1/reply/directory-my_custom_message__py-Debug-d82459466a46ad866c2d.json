@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "my_custom_message__py",
+		"source" : "/home/benny233/Documents/PlatformIO/Projects/ROS_2_Test/build/my_custom_message__py"
+	}
+}

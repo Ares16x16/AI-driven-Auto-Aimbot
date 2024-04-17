@@ -1,0 +1,2 @@
+int64 tilt_angle
+int64 pan_angle

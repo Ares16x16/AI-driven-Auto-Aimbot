@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/benny233/ros2_ws/build/ros2_pcnode_test",
+        "/home/benny233/ros2_ws/install/ros2_pcnode_test/lib/python3.10/site-packages",
+        "/home/benny233/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/benny233/ros2_ws/build/ros2_pcnode_test",
+        "/home/benny233/ros2_ws/install/ros2_pcnode_test/lib/python3.10/site-packages",
+        "/home/benny233/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

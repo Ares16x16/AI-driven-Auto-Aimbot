@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240323-0919-Experimental"
+	Name="ubuntuutmmac"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="ubuntuutmmac"
+	OSRelease="5.15.0-101-generic"
+	OSVersion="#111-Ubuntu SMP Wed Mar 6 18:01:01 UTC 2024"
+	OSPlatform="aarch64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="8"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="6"
+	NumberOfPhysicalCPU="1"
+	TotalVirtualMemory="4095"
+	TotalPhysicalMemory="13952"
+	LogicalProcessorsPerPhysical="6"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Mar 23 17:19 HKT</StartDateTime>
+		<StartTestTime>1711185540</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 23 17:19 HKT</EndDateTime>
+		<EndTestTime>1711185540</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,6 @@
+[console_scripts]
+cam = ros2_pcnode_test.test_cam:main
+draw_circle = ros2_pcnode_test.draw_circle:main
+ros2_pc_node = ros2_pcnode_test.ros2_pc_node:main
+test_node = ros2_pcnode_test.test_node:main
+
